@@ -1,4 +1,4 @@
-FROM koji/image-build
+FROM rhel-minimal
 
 LABEL maintainer="Red Hat, Inc."
 
